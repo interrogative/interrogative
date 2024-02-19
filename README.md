@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td>&nbsp;discord</td>
-<td>&nbsp;<a href="https://discordapp.com/users/966186480169000971">@stockbrokers</a></td>
+<td>&nbsp;<a href="https://discordapp.com/users/966186480169000971">@teleprinter</a></td>
 </tr>
 <tr>
 <td>&nbsp;instagram</td>
